@@ -1,0 +1,10 @@
+{
+  "id": "quick-toggle-plugin",
+  "name": "Quick Toggle Plugin",
+  "version": "1.0.0",
+  "main": "main.js",
+  "minAppVersion": "0.12.0",
+  "description": "快速切换指定插件的状态",
+  "author": "Chris",
+  "authorUrl": "https://github.com/ichris007/obsidian-quick-toggle-plugin"
+}
