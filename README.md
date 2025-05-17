@@ -1,10 +1,10 @@
 # obsidian-quick-toggle-plugin
-Quick Toggle Community Plugins 快速开关Obsidian社区插件
+Quick Toggle Community Plugins 快速开关指定的社区插件
 
 
 ## 简介
 有些插件只是在用的时候才需要开，每次都去设置里开关，非常麻烦。
-所以，就写着这个插件，用命令面板快速开关社区插件，也可以设置快捷键，非常方便。
+所以，就写了这个插件，用命令面板快速开关社区插件，也可以设置快捷键，非常方便。
 
 ## 安装
 目前没上插件社区。
@@ -20,8 +20,8 @@ Quick Toggle Community Plugins 快速开关Obsidian社区插件
 
 ## 使用方法
 ### 1. 插件设置界面
-![WX20250517-205145](https://github.com/user-attachments/assets/079cebea-7d59-4c98-b1b3-d28a03647385)
+![快速开关指定的插件|400](https://github.com/user-attachments/assets/079cebea-7d59-4c98-b1b3-d28a03647385)
 
 ### 2. 插件使用
 
-![Lifein1](https://github.com/user-attachments/assets/cd18f0a3-1dc7-4f05-b2de-0ec0b9100564)
+![快速开关指定的插件](https://github.com/user-attachments/assets/cd18f0a3-1dc7-4f05-b2de-0ec0b9100564)
