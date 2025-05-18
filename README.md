@@ -31,6 +31,6 @@ Quick Toggle Community Plugins 快速开关指定的社区插件
 
 
 ### 2. 插件使用
-基于v1.0.0版本录制。新版本操作类似，且更方便了，怎加输入插件前面的数字即可开/关插件。
+基于v1.0.0版本录制。新版本操作类似，且更方便了，增加输入插件前面的数字即可开/关插件。
 
 ![快速开关指定的插件](https://github.com/user-attachments/assets/cd18f0a3-1dc7-4f05-b2de-0ec0b9100564)
