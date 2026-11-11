@@ -38,3 +38,17 @@ Quick Toggle Community Plugins 快速开关指定的社区插件
 
 ![快速开关方法](https://github.com/user-attachments/assets/8d3b5815-43b7-4da2-b272-81a261c5b1a0)
 
+---
+<div align="center">
+
+### ☕ 支持作者
+
+如果这个项目给你带来了帮助，欢迎请我喝杯咖啡 ☕
+
+微信扫码↓
+
+<img src="https://github.com/ichris007/ichris007/blob/main/images/wechat_donate_qrcode0.png" width="300" alt="微信赞赏码">
+
+感谢每一份支持！
+
+</div>
